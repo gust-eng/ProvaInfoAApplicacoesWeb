@@ -1,0 +1,84 @@
+*{
+    background-color: #f5f6fa;
+}
+.tudo{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+    flex-direction: column;
+}
+.ttt{
+    margin-right: 700px;
+    margin-top: 10px;
+        font-family: 'Times New Roman', Times, serif;
+
+}
+.tt{
+    border: 2px solid black;
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    margin-top: 40px;
+    margin-bottom: 30px;
+    background-color: white;
+    p{
+        background-color: transparent;
+    }
+
+}
+
+.cartao{
+     border: 2px solid black;
+     border-radius: 8px;
+      padding-left: 90px;
+    padding-right: 90px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    margin-top: 40px;
+    margin-bottom: 10px;
+    background-color: white;
+    .card{
+        display: flex;
+        flex-direction: column;
+        gap: 14px;
+        background-color: transparent;
+    }
+    .bt{
+        background-color: transparent;
+    }
+    button{
+        margin-top: 10px;
+        margin-left: 300px;
+        height: 40px;
+        width: 200px;
+        border-radius: 10px;
+        color:white;
+        background-color: #6278f7;
+    }
+    input{
+        background-color: transparent;
+        height: 30px;
+        border-radius: 7px;
+    }
+    label{
+      background-color: transparent;
+
+    }
+
+}
+.resultado{
+    font-size: 20px;
+    margin-bottom: 30px;
+    margin-left: 400px;
+}
+.link{
+    border: 2px solid black;
+    margin: 10px;
+    
+link{
+background-color: #6278f7;
+}
+    
+}
